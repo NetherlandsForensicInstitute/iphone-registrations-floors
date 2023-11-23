@@ -4,8 +4,8 @@ On the accuracy of registrations of ascended and descended floors in iPhones
 If you use these data in a publication, please cite
 
 Jan Peter van Zandwijk, Kim Lensen, Abdul Boztas,
-[Have you been upstairs? On the accuracy of registrations of ascended and descended floors in iPhones](),
-Forensic Science International Digital Investigation
+[Have you been upstairs? On the accuracy of registrations of ascended and descended floors in iPhones](https://doi.org/10.1016/j.fsidi.2023.301660),
+Forensic Science International: Digital Investigation, Volume 47, December 2023, 301660.
 
 CSV data column legend
 ----------------------
